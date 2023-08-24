@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-
+# Exploratory-Data-Analysis-(EDA)
 Title: Comprehensive Exploratory Data Analysis (EDA) Repository
 
 Description:
