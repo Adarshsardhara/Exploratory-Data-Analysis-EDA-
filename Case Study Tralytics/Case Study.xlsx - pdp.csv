@@ -1,0 +1,26 @@
+pf_id,platform_name,location_name,pincode,brand_id,brand_name,brand_category_id,reseller_name_crawl,web_pid,pdp_page_url,osa,osa_remark,price_rp,price_sp
+2,Flipkart National,Bangalore,560035,2,Fevicreate,1,Pidilite,ACKGQQFGCYGYAYQA,https://flipkart.com/abc/p/xyz?pid=ACKGQQFGCYGYAYQA,1,INSTOCK,149,149
+2,Flipkart National,Bangalore,560035,2,Fevicreate,1,SURICYBCOMBazaar,ACKGRVAAYQQKHX3X,https://flipkart.com/abc/p/xyz?pid=ACKGRVAAYQQKHX3X,1,INSTOCK,249,249
+2,Flipkart National,Bangalore,560035,3,Fevicryl,1,SURICYBCOMBazaar,ACKGRZMBT2PWHRHZ,https://flipkart.com/abc/p/xyz?pid=ACKGRZMBT2PWHRHZ,1,INSTOCK,489,489
+2,Flipkart National,Bangalore,560035,3,Fevicryl,1,SURICYBCOMBazaar,ACKGRZMGRKXGTRNZ,https://flipkart.com/abc/p/xyz?pid=ACKGRZMGRKXGTRNZ,1,INSTOCK,349,349
+2,Flipkart National,Bangalore,560035,2,Fevicreate,1,SURICYBCOMBazaar,ACKGZ3N58QEZZYWD,https://flipkart.com/abc/p/xyz?pid=ACKGZ3N58QEZZYWD,0,OOS,999,999
+2,Flipkart National,Bangalore,560035,3,Fevicryl,1,Pidilite,ADHGQSJPBD6TSEGP,https://flipkart.com/abc/p/xyz?pid=ADHGQSJPBD6TSEGP,1,INSTOCK,99,99
+2,Flipkart National,Bangalore,560035,4,Motomax,1,Pidilite,AVCGZUCPHCBN5PUU,https://flipkart.com/abc/p/xyz?pid=AVCGZUCPHCBN5PUU,1,INSTOCK,959,959
+2,Flipkart National,Bangalore,560035,4,Motomax,1,Pidilite,AVCGZYZRCDWAH7PB,https://flipkart.com/abc/p/xyz?pid=AVCGZYZRCDWAH7PB,1,INSTOCK,900,900
+2,Flipkart National,Bangalore,560035,2,Fevicreate,1,SURICYBCOMBazaar,PFTGNVVVHFUAR7FW,https://flipkart.com/abc/p/xyz?pid=PFTGNVVVHFUAR7FW,1,INSTOCK,193,193
+2,Flipkart National,Bangalore,560035,1,Fevicol,1,Pidilite,ADHGRFC3DKZBYBDH,https://flipkart.com/abc/p/xyz?pid=ADHGRFC3DKZBYBDH,1,INSTOCK,100,100
+2,Flipkart National,Bangalore,560035,3,Fevicryl,1,SURICYBCOMBazaar,PTSGQUSYXVNJVSTQ,https://flipkart.com/abc/p/xyz?pid=PTSGQUSYXVNJVSTQ,1,INSTOCK,150,150
+2,Flipkart National,Bangalore,560035,2,Fevicreate,1,Pidilite,RASGHWKJ4CSZFMDE,https://flipkart.com/abc/p/xyz?pid=RASGHWKJ4CSZFMDE,1,INSTOCK,560,560
+2,Flipkart National,Bangalore,560035,3,Fevicryl,1,Pidilite,ACKGTAGNHZ4JCYKY,https://flipkart.com/abc/p/xyz?pid=ACKGTAGNHZ4JCYKY,1,INSTOCK,999,999
+1,Amazon,Bangalore,560035,1,Fevicol,1,None,B0BN1D4R84,https://www.amazon.in/dp/B0BN1D4R84,0,OOS,0,0
+1,Amazon,Bangalore,560035,1,Fevicol,1,MANIT ENTERPRISES,B0BN1C8HQW,https://www.amazon.in/dp/B0BN1C8HQW,1,INSTOCK,20,20
+1,Amazon,Bangalore,560035,2,Fevicreate,1,Pidilite Industries,B0BYZ2JC61,https://www.amazon.in/dp/B0BYZ2JC61,1,INSTOCK,275,234
+1,Amazon,Bangalore,560035,2,Fevicreate,1,None,B0BZPBT9GP,https://www.amazon.in/dp/B0BZPBT9GP,0,OOS,0,0
+1,Amazon,Bangalore,560035,2,Fevicreate,1,Pidilite Industries,B0CCY96B3K,https://www.amazon.in/dp/B0CCY96B3K,1,INSTOCK,349,297
+1,Amazon,Bangalore,560035,3,Fevicryl,1,ur-kidstore,B0C94NN9DP,https://www.amazon.in/dp/B0C94NN9DP,1,INSTOCK,190,175
+1,Amazon,Bangalore,560035,3,Fevicryl,1,Cocoblu Retail,B0CCRS8954,https://www.amazon.in/dp/B0CCRS8954,1,INSTOCK,699,489
+1,Amazon,Bangalore,560035,3,Fevicryl,1,Cocoblu Retail,B0CCRSDS82,https://www.amazon.in/dp/B0CCRSDS82,1,INSTOCK,499,349
+1,Amazon,Bangalore,560035,2,Fevicreate,1,Cocoblu Retail,B09YC4V3N2,https://www.amazon.in/dp/B09YC4V3N2,1,INSTOCK,500,425
+1,Amazon,Bangalore,560035,2,Fevicreate,1,Cocoblu Retail,B0C8MNQSCL,https://www.amazon.in/dp/B0C8MNQSCL,1,INSTOCK,149,149
+1,Amazon,Bangalore,560035,5,Fevistik,1,MANIT ENTERPRISES,B0C8Z86X5N,https://www.amazon.in/dp/B0C8Z86X5N,1,INSTOCK,99,92
+1,Amazon,Bangalore,560035,3,Fevicryl,1,Cocoblu Retail,B0CHRZ6NXC,https://www.amazon.in/dp/B0CHRZ6NXC,1,INSTOCK,1499,1099
